@@ -275,6 +275,7 @@ body::-webkit-scrollbar-thumb {
   z-index: 5000 !important;
 
   color: darkblue !important;
+  height: 100vh;
   text-align: center;
 }
 
