@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  font-family: "Lato", sans-serif;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  min-width: 350px;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: white;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+code {
+  font-family: "Lato", sans-serif;
+}
+
+p {
+  font-family: "Lato", sans-serif;
+  word-break: break-all;
+}
+
+
+* {
+  font-family: "Lato", sans-serif;
+  padding: none;
+  margin: none;
+  transition: 1s linear;
+}
+
+input {
+
+  font-family: "Lilita One", sans-serif;
+  background-color: transparent;
+  font-style: italic;
+}
+
+a {
+  text-decoration: none;
+  font-family: "Lilita One", sans-serif;
+}
+
+
+button {
+
+  font-family: "Lilita One", sans-serif;
+  font-style: italic;
+}
+
+
+h1 {
+
+  font-family: "Lilita One", sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  color: #6fbcf0;
+  font-size: 3.5rem;
+}
